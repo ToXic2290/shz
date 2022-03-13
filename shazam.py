@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+
+# Module author: Official Repo, @dekftgmodules
+
+# requires: lyricsgenius ShazamAPI
+
 import io
 
 import lyricsgenius
